@@ -1,6 +1,6 @@
 # Predixy [中文版](https://github.com/joyieldInc/predixy/blob/master/README_CN.md)
 
-**Predixy** is a high performance and fully featured proxy for redis sentinel and redis cluster
+**Predixy** is a high performance and fully featured proxy for redis sentinel and redis cluster.
 This is a copy, please visit:https://github.com/joyieldInc/predixy
 ## Features
 
